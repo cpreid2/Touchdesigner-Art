@@ -1,5 +1,5 @@
 # Touchdesigner-Art
-Generative Art Made with Touchdesigner
+Generative Art Made with Touchdesigner - https://www.instagram.com/cocos.graficos/
 
 Various Tox files containing touchdesigner experimentations.
 
